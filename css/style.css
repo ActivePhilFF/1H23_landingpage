@@ -1,0 +1,33 @@
+body{
+    background-color: #dfbf0d;
+}
+
+.firstRow{
+    padding-top: 3vh;
+}
+
+.firstCol{
+    height: 100%;
+}
+
+.personImg{
+    width: 90%;
+}
+
+.motives{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.peopleTab {
+    background-color: #df7d0d;
+}
+
+.videoImage {
+    padding-bottom: 5vh;
+}
+
+.personName{
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+}
